@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Prueba aplicacion</string>
+
+
+    <string name="title_activity_sede">SedeActivity</string>
+    <string name="title_activity_menú">CartaActivity</string>
+    <string name="title_activity_reserva">ReservaActivity</string>
+
+
+    <string name="titulo">Juan david parra sierra 000475676</string>
+
+
+    <string name="sedes">Conoce nuestras ubicaciones aqui</string>
+    <string name="menú">Conoce nuestros productos aqui</string>
+    <string name="reservas">Contactanos para reservar aqui</string>
+
+    <!--Información Productos-->
+    <string-array name="entradas">
+        <item></item>
+        <item>Nuggets de pollo</item>
+        <item>Papas a la francesa</item>
+        <item>Degustacion de quesos</item>
+        <item>Sopa de res</item>
+        <item>Tacos al pastor</item>
+    </string-array>
+
+    <string-array name="Platos">
+        <item></item>
+        <item>Carne asada</item>
+        <item>Bandeja Paisa</item>
+        <item>Picada de carne</item>
+        <item>Ensalada</item>
+        <item>Hamburguesa</item>
+    </string-array>
+
+    <string-array name="Bebidas">
+        <item></item>
+        <item>Cocacola</item>
+        <item>Pepsi</item>
+        <item>Fanta</item>
+        <item>Agua</item>
+        <item>Jugo</item>
+    </string-array>
+
+    <string-array name="Postres">
+        <item></item>
+        <item>Tiramisu</item>
+        <item>Flan</item>
+        <item>Helado</item>
+        <item>Galletas</item>
+        <item>Ensalada de frutas</item>
+    </string-array>
+
+    <string-array name="Licores">
+        <item></item>
+        <item>Aguardiente</item>
+        <item>Smirnoff</item>
+        <item>Cerveza artesanal</item>
+        <item>Cerveza aguila</item>
+        <item>Crema de ron</item>
+    </string-array>
+
+</resources>
